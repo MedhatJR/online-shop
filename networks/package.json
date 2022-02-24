@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "git": "^0.1.5",
+    "heroku": "^7.59.2",
+    "mongodb": "^4.2.2"
+  }
+}
